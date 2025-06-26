@@ -988,6 +988,7 @@ body {
   line-height: 25px;
   letter-spacing: 0%;
   text-align: center;
+  margin-left: 3%;
 }
 .inputbox hr {
   border: 1px solid rgba(19, 19, 24, 0.1);
@@ -1043,6 +1044,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
 }
+
 /* For medium screens (tablets) */
 @media (max-width: 1024px) {
   .element {
